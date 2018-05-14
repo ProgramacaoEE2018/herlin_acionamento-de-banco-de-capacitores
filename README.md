@@ -1,1 +1,1 @@
-# herlin_acionamento-de-banco-de-capacitores
+O programa será para acionar um banco de capacitores, ligando-o no horário indutivo e desligando-o no período capacitivo para ajustar a potência reativa de modo a economizar energia elétrica e assim reduzir o valor gasto com luz. 
