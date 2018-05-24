@@ -11,5 +11,5 @@ http://csharp.net-informations.com/gui/button.htm
 Aprendi a trocar o texto do botão, substitui por "tutorial" e adicionei no código um manipulador de eventos simples:
 MessageBox.Show("Tutorial Realizado");
 
-Com ele, pude ver a mensagem na tela a mensagem: Tutorial Realizado e conclui um primeiro programa bem simples para conhecer essa nova ferramenta.
+Com ele, pude ver a mensagem na tela a mensagem: Tutorial Realizado e conclui a execução de um primeiro programa bem simples para conhecer essa nova ferramenta.
 
