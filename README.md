@@ -14,4 +14,4 @@ MessageBox.Show("Tutorial Realizado");
 Com ele, pude ver a mensagem na tela a mensagem: Tutorial Realizado e conclui a execução de um primeiro programa bem simples para conhecer essa nova ferramenta.
 
 ![Tutorial](Tutorial.png)
-![Acionamento Banco de Capacitores](Acionamento Banco de Capacitores.png)
+![AcionamentoBancodeCapacitores](AcionamentoBancodeCapacitores.png)
