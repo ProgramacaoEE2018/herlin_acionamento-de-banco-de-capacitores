@@ -13,5 +13,3 @@ MessageBox.Show("Tutorial Realizado");
 
 Com ele, pude ver a mensagem na tela a mensagem: Tutorial Realizado e conclui a execução de um primeiro programa bem simples para conhecer essa nova ferramenta.
 
-![Tutorial](Tutorial.jpg)
-![Esboco Capacitores](Acionamento Banco de Capacitores.jpg)
