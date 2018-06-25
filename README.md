@@ -1,20 +1,24 @@
-FUNÇÃO:
+#**DESCRIÇÃO**
+
+#**FUNÇÃO**:
 O programa será para acionar um banco de capacitores, ligando-o no horário indutivo e desligando-o no período capacitivo e calculando o valor da capacitância necessária para chegar no fator de potência necessário.
 
-MOTIVAÇÃO:
+#**MOTIVAÇÃO**:
 Ajustar a potência reativa de modo a economizar energia elétrica e assim reduzir o valor gasto com luz. 
 
-FUNCIONAMENTO:
+#**FUNCIONAMENTO**:
 Ele vai recolher as informações do usuário sobre o gasto de energia nos últimos meses e vai calcular o valor necessário da capacitância equivalente do banco para corrigir o fator de potência para um valor maior que 0,95(Valor mínimo recomendado) 
 
-FLUXOGRAMA:
+#**FLUXOGRAMA**:
 ![Fluxograma](Fluxograma.png)
 
-DIAGRAMA DE CLASSES:
+#**DIAGRAMA DE CLASSES**:
 ![DiagramadeClasses](DiagramadeClasses.png)
 
+#**ESBOÇO GUI**:
+![Acionamento_banco_capacitores](Acionamento_banco_capacitores.png)
 
-TUTORIAL:
+**TUTORIAL**:
 A biblioteca escolhida foi do Windows Forms
 Para executar o tutorial entrei no seguinte link:
 http://csharp.net-informations.com/gui/gui_tutorial.htm
@@ -29,10 +33,10 @@ Com ele, pude ver a mensagem na tela a mensagem: Tutorial Realizado e conclui a 
 ![Tutorial](Tutorial.png)
 
 
-DESCRIÇÃO DA COMPLIÇÃO:
-O programa foi feito e compilado utilizando o Windows Forms no Visual Studios 2017 na linguagem C#. Portanto, é necessário baixar o pacote para compilar e executar o programa. Foi criado um executável para executar o programa.  
+#**DESCRIÇÃO DA COMPLIÇÃO**:
+O programa foi feito e compilado utilizando o Windows Forms no Visual Studios 2017 na linguagem C#. Portanto, é necessário baixar o pacote para compilar e executar o programa. Ao criar um novo projeto é necessário copiar o código do Acionamento_banco_capacitores.Designer.cs(https://github.com/ProgramacaoEE2018/herlin_acionamento-de-banco-de-capacitores/blob/master/Acionamento_banco_capacitores.Designer.cs) e do Acionamento_banco_capacitores.cs(https://github.com/ProgramacaoEE2018/herlin_acionamento-de-banco-de-capacitores/blob/master/Acionamento_banco_capacitores.cs) para realizar a compilação do programa. 
 
-DESCRIÇÃO DO USO DO PROGRAMA:
+#**DESCRIÇÃO DO USO DO PROGRAMA**:
 
 Ao iniciar o programa pelo executável, abre-se uma janela com 6 campos editáveis(Horário de Funcionamento(h), Tensão de Linha(V), Frequência(Hz), Média de Potência Ativa(KW), Média de Potência Reativa(KW), Fator de potência necessário). 
 É necessário preencher todos os dados para que a capacitância equivalente necessária seja calculada. Caso o horário de funcionamento seja menor do que 6, ela não é calculada, pois é o período capacitivo no qual não é recomendado que se ligue o banco de capacitores. Caso esse horário seja maior ou igual a 6, preenchendo todos os dados(O fator de potência é com vírgula e não ponto), a capacitância necessária para o banco é calculada e indicada para o usuário. 
