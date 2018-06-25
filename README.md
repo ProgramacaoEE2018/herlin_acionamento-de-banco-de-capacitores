@@ -1,3 +1,5 @@
+DESCRIÇÃO
+
 FUNÇÃO:
 O programa será para acionar um banco de capacitores, ligando-o no horário indutivo e desligando-o no período capacitivo e calculando o valor da capacitância necessária para chegar no fator de potência necessário.
 
@@ -6,6 +8,13 @@ Ajustar a potência reativa de modo a economizar energia elétrica e assim reduz
 
 FUNCIONAMENTO:
 Ele vai recolher as informações do usuário sobre o gasto de energia nos últimos meses e vai calcular o valor necessário da capacitância equivalente do banco para corrigir o fator de potência para um valor maior que 0,95(Valor mínimo recomendado) 
+
+FLUXOGRAMA:
+![Fluxograma](Fluxograma.png)
+
+DIAGRAMA DE CLASSES:
+![Diagrama de Classes](Diagramadeclasses.png)
+
 
 TUTORIAL:
 A biblioteca escolhida foi do Windows Forms
@@ -21,8 +30,6 @@ Com ele, pude ver a mensagem na tela a mensagem: Tutorial Realizado e conclui a 
 
 ![Tutorial](Tutorial.png)
 
-
-![Fluxograma](Fluxograma.png)
 
 DESCRIÇÃO DA COMPLIÇÃO:
 O programa foi feito e compilado utilizando o Windows Forms no Visual Studios 2017 na linguagem C#. Portanto, é necessário baixar o pacote para compilar e executar o programa. Foi criado um executável para executar o programa.  
