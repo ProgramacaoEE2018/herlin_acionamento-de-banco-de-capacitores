@@ -11,7 +11,7 @@ FLUXOGRAMA:
 ![Fluxograma](Fluxograma.png)
 
 DIAGRAMA DE CLASSES:
-![Diagrama de Classes](Diagrama de Classes.png)
+![DiagramadeClasses](DiagramadeClasses.png)
 
 
 TUTORIAL:
