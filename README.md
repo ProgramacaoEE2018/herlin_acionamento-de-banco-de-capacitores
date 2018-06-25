@@ -1,5 +1,3 @@
-DESCRIÇÃO
-
 FUNÇÃO:
 O programa será para acionar um banco de capacitores, ligando-o no horário indutivo e desligando-o no período capacitivo e calculando o valor da capacitância necessária para chegar no fator de potência necessário.
 
@@ -13,7 +11,7 @@ FLUXOGRAMA:
 ![Fluxograma](Fluxograma.png)
 
 DIAGRAMA DE CLASSES:
-![Diagrama de Classes](Diagramadeclasses.png)
+![Diagrama de Classes](Diagrama de Classes.png)
 
 
 TUTORIAL:
