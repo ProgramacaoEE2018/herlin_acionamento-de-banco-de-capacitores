@@ -5,7 +5,7 @@ MOTIVAÇÃO:
 Ajustar a potência reativa de modo a economizar energia elétrica e assim reduzir o valor gasto com luz. 
 
 FUNCIONAMENTO:
-Ele vai recolher as informações do usuário sobre o gasto de energia nos últimos meses e vai calcular o valor necessário da capacitância equivalente do banco para corrigir o fator de potência para 0,95(Valor mínimo recomendado) 
+Ele vai recolher as informações do usuário sobre o gasto de energia nos últimos meses e vai calcular o valor necessário da capacitância equivalente do banco para corrigir o fator de potência para um valor maior que 0,95(Valor mínimo recomendado) 
 
 TUTORIAL:
 A biblioteca escolhida foi do Windows Forms
