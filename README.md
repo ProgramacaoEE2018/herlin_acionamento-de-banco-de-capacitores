@@ -22,7 +22,7 @@ Com ele, pude ver a mensagem na tela a mensagem: Tutorial Realizado e conclui a 
 ![Tutorial](Tutorial.png)
 
 
-![Fluxograma](Fluxograma.pdf)
+![Fluxograma](Fluxograma.png)
 
 DESCRIÇÃO DA COMPLIÇÃO:
 O programa foi feito e compilado utilizando o Windows Forms no Visual Studios 2017 na linguagem C#. Portanto, é necessário baixar o pacote para compilar e executar o programa. Foi criado um executável para executar o programa.  
